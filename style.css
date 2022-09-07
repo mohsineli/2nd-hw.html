@@ -20,9 +20,10 @@ h1{
 }
 h2{
    padding-left: 50px;
-   padding-top:  25px;
+   padding-top:  3vw;
    color: #4B0082;
    font-size:2vw;
+
    
    
 }
@@ -56,7 +57,7 @@ h5{
 }
 .ping{
    
-   padding-top: 100px;
+   padding-top: 3vw;
 }
 .dod{
    
@@ -65,8 +66,8 @@ h5{
 .pin{
    
    float: right;
-   border-style: solid;
-   margin-top: 50px;
+   border: 1px solid yellow; 
+   margin-top: 30px;
    background-color: #FFD801;
    font-size:1vw;
    
