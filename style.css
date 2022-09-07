@@ -4,7 +4,7 @@ h4{
     color: blue;
     font-size: 1em;
     font-size:1vw;
-    margin-top: -40px;
+    margin-top: -3vw;
     
 }
 img{ 
@@ -20,7 +20,7 @@ h1{
 }
 h2{
    padding-left: 50px;
-   padding-top:  3vw;
+   padding-top:  2vw;
    color: #4B0082;
    font-size:2vw;
 
@@ -39,7 +39,7 @@ h5{
 
     
     padding-left: 50px;
-    margin-top: -20px;
+    margin-top: -1vw;
     font-size:1vw;
 }
 .pp{
